@@ -3,3 +3,7 @@ This code contains an implementation of the gradient descent algorithm for findi
 # MODULES
 
 This section details the various modules included in this repository. Each module represents a key component of the project, organized to facilitate understanding and implementation. 
+
+# Load modules
+import numpy as np
+import matplotlib.pyplot as plt
